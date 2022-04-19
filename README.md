@@ -14,6 +14,8 @@ Mi experiencia en el bootcamp de Laboratoria, me ha permitido desarrollar herram
   
   
 **Tech Skills** 
+       
+       
 ![Icono JavaScript](https://img.icons8.com/color/50/ffffff/javascript--v1.png "JavaScript")                 ![Icono NodeJS](https://img.icons8.com/windows/60/ffffff/nodejs.png "NodeJS")               ![Icono HTML5](https://img.icons8.com/color/50/ffffff/html-5--v1.png "HTML5")               ![Icono CSS](https://img.icons8.com/color/60/ffffff/css3.png "CSS")               ![Icono Firebase](https://img.icons8.com/color/50/ffffff/firebase.png "Firebase")               ![Icono Git](https://img.icons8.com/color/50/ffffff/git.png "Git")               ![Icono GitHub](https://img.icons8.com/ios-glyphs/50/ffffff/github.png "GitHub")               ![Icono Visual Studio Code](https://img.icons8.com/color/50/ffffff/visual-studio-code-2019.png "Visual Studio Code")               ![Icono Figma](https://img.icons8.com/color/50/ffffff/figma--v1.png "Figma")               ![Icono Illustrator](https://img.icons8.com/color/50/000000/adobe-illustrator--v1.png "Illustrator")               ![Icono Photoshop](https://img.icons8.com/color/50/000000/adobe-photoshop--v1.png "Photoshop")               ![Icono Indesign](https://img.icons8.com/color/50/000000/adobe-indesign--v1.png "Indesign")               ![Icono Trello](https://img.icons8.com/color/50/000000/trello.png "Trello")               ![Icono Notion](https://img.icons8.com/material-outlined/50/FFFFFF/notion--v1.png "Notion")               ![Icono Slack](https://img.icons8.com/color/50/000000/slack-new.png "Slack")
 
 
