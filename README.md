@@ -1,7 +1,7 @@
 # ¡Hola, soy María Jesús!
 
 
- <img src="Cueva del autoconocimiento.jpg" width="400px" alt = "Cueva del autoconocimiento, Ilustración hecha por mi" align = "right">
+ <img src="Cueva del autoconocimiento.jpg" width="450px" alt = "Cueva del autoconocimiento, Ilustración hecha por mi" align = "right">
 
 Soy Front End Developer egresada de [Laboratoria](https://www.laboratoria.la/), Chile. <br>
 
@@ -39,9 +39,9 @@ Puedes encontrarme en:
 <!-- Icons -->
 <!-- https://img.icons8.com/metro/40/ffffff/behance.png-->
 
-[1.2]: https://img.icons8.com/ios-filled/40/ffffff/linkedin.png 
-[2.2]: https://img.icons8.com/ios-filled/40/ffffff/behance.png 
-[3.2]: https://img.icons8.com/ios-filled/40/ffffff/secured-letter--v1.png
+[1.2]: https://img.icons8.com/ios-filled/50/ffffff/linkedin.png 
+[2.2]: https://img.icons8.com/ios-filled/50/ffffff/behance.png 
+[3.2]: https://img.icons8.com/ios-filled/50/ffffff/secured-letter--v1.png
 
 <!-- Links to your social media accounts -->
 
