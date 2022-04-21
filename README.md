@@ -7,7 +7,7 @@
  Soy Front End Developer egresada de <a href = "https://www.laboratoria.la/" target="_blank">Laboratoria</a>, Chile. 
 </p>
 <p>
-Mi **pasión por crear** me ha llevado por distintos caminos; como la ilustración, el dibujo, el diseño industrial y actualmente al **desarrollo web**, junto con un gran interés por el **diseño UI**.  
+Mi <strong>pasión por crear</strong> me ha llevado por distintos caminos; como la ilustración, el dibujo, el diseño industrial y actualmente al <strong>desarrollo web</strong>, junto con un gran interés por el <strong>diseño UI</strong>.  
 </p>
 <p>    
 Mi experiencia en el bootcamp de Laboratoria, me ha permitido desarrollar herramientas de autoaprendizaje a través del el feedback y el autoconocimiento, por lo que disfruto de un ambiente ágil y colaborativo.
@@ -39,23 +39,6 @@ Mi experiencia en el bootcamp de Laboratoria, me ha permitido desarrollar herram
 <a href = "https://www.behance.net/majesusop8943?tracking_source=search_users%7Cmaria%20jesus%20oliva" target="_blank"><img src = "https://img.icons8.com/ios-filled/50/ffffff/behance.png"></a>
 <a href = "mailto:majesus.op@gmail.com" target="_blank"><img src = "https://img.icons8.com/ios-filled/50/ffffff/secured-letter--v1.png"></a>
 </div>
-
-
-[![LinkedIn][1.2]][1] [![Behance][2.2]][2] [![Email][3.2]][3]
-
-<!-- Icons -->
-<!-- https://img.icons8.com/metro/40/ffffff/behance.png-->
-
-[1.2]: https://img.icons8.com/ios-filled/50/ffffff/linkedin.png 
-[2.2]: https://img.icons8.com/ios-filled/50/ffffff/behance.png 
-[3.2]: https://img.icons8.com/ios-filled/50/ffffff/secured-letter--v1.png
-
-<!-- Links to your social media accounts -->
-
-[1]: https://www.linkedin.com/in/majesuso/
-[2]: https://www.behance.net/majesusop8943?tracking_source=search_users%7Cmaria%20jesus%20oliva
-[3]: mailto:majesus.op@gmail.com
-
 
 <!--
 
