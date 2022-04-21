@@ -12,6 +12,13 @@ Mi <strong>pasión por crear</strong> me ha llevado por distintos caminos; como 
 <p>    
 Mi experiencia en el bootcamp de Laboratoria, me ha permitido desarrollar herramientas de autoaprendizaje a través del el feedback y el autoconocimiento, por lo que disfruto de un ambiente ágil y colaborativo.
 </p> 
+<ul>
+<li>🙋‍♀️ También soy Diseñadora Industrial e Ilustradora independiente</li>
+<li>💻 Me encuentro trabajando en el proyecto: <a href = "https://github.com/majesuso/SCL019-burger-queen">Burger Queen</a></li>
+<li>📚 Actualmente estoy aprendiendo: NodeJs y React</li>
+<li>✏️ Hobbies: Novelas Gráficas, dibujar, pintar, jardinear y cocinar.</li>
+<li>⚡ Dato: La ilustración se llama "Cueva del autoconocimiento" y es un autoretrato con mis dos gatos.</li> 
+</ul>
 </div>
   
 <div> 
@@ -35,9 +42,9 @@ Mi experiencia en el bootcamp de Laboratoria, me ha permitido desarrollar herram
 <p><strong>📫 Puedes encontrarme en:</strong></p> 
 
 <div style = "display: flex; flex-direction: row">
-<a href = "https://www.linkedin.com/in/majesuso/" target="_blank"><img src = "https://img.icons8.com/ios-filled/50/ffffff/linkedin.png"></a>
-<a href = "https://www.behance.net/majesusop8943?tracking_source=search_users%7Cmaria%20jesus%20oliva" target="_blank"><img src = "https://img.icons8.com/ios-filled/50/ffffff/behance.png"></a>
-<a href = "mailto:majesus.op@gmail.com" target="_blank"><img src = "https://img.icons8.com/ios-filled/50/ffffff/secured-letter--v1.png"></a>
+<a href = "https://www.linkedin.com/in/majesuso/"><img src = "https://img.icons8.com/ios-filled/50/ffffff/linkedin.png"></a>
+<a href = "https://www.behance.net/majesusop8943?tracking_source=search_users%7Cmaria%20jesus%20oliva"><img src = "https://img.icons8.com/ios-filled/50/ffffff/behance.png"></a>
+<a href = "mailto:majesus.op@gmail.com"><img src = "https://img.icons8.com/ios-filled/50/ffffff/secured-letter--v1.png"></a>
 </div>
 
 <!--
