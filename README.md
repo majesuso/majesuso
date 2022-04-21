@@ -17,7 +17,7 @@ Mi experiencia en el bootcamp de Laboratoria, me ha permitido desarrollar herram
 <li>🙋‍♀️ También soy Diseñadora Industrial e Ilustradora independiente</li>
 <li>💻 Me encuentro trabajando en el proyecto: <a href = "https://github.com/majesuso/SCL019-burger-queen">Burger Queen</a></li>
 <li>📚 Actualmente estoy aprendiendo: NodeJs y React</li>
-<li>✏️ Hobbies: Novelas Gráficas, dibujar, pintar, jardinear y cocinar.</li>
+<li>✏️ Hobbies: Novelas Gráficas, dibujar, pintar, jardinear, cocinar y ver series.</li>
 <li>⚡ Dato: La ilustración se llama "Cueva del autoconocimiento" y es un autoretrato con mis dos gatos.</li> 
 </ul>
  
