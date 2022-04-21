@@ -7,10 +7,10 @@
 Soy Front End Developer egresada de <a href = "https://www.laboratoria.la/" target="_blank">Laboratoria</a>, Chile. 
 </p>
 <p>
-Me apasiona crear y aprender, por lo que tomé el desafío de convertirme en developer, ya que me gustaría ser parte del cambio y así poder entregar nuevas experiencias y funcionalidades al usuario.
+Me apasiona crear y aprender, por lo que tomé el desafío de convertirme en desarrolladora, ya que me gustaría ser parte del cambio y así poder entregar nuevas experiencias y funcionalidades al usuario.
 </p>
 <p>    
-Mi experiencia en el bootcamp de Laboratoria, me ha permitido desarrollar herramientas de autoaprendizaje a través del el feedback y el autoconocimiento, por lo que disfruto de un ambiente ágil y colaborativo.
+Mi experiencia en el bootcamp de Laboratoria, me ha permitido desarrollar herramientas de autoaprendizaje a través del feedback y el autoconocimiento, por lo que disfruto de un ambiente ágil y colaborativo.
 </p> 
  
 <ul>
