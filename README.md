@@ -12,7 +12,8 @@ Me apasiona crear y aprender, por lo que tomé el desafío de convertirme en des
 <p>    
 Mi experiencia en el bootcamp de Laboratoria, me ha permitido desarrollar herramientas de autoaprendizaje a través del feedback y el autoconocimiento, por lo que disfruto de un ambiente ágil y colaborativo.
 </p> 
- 
+
+<p><strong>Sobre mí</strong></p>
 <ul>
 <li>🙋‍♀️ También soy Diseñadora Industrial e Ilustradora independiente</li>
 <li>💻 Me encuentro trabajando en el proyecto: <a href = "https://github.com/majesuso/SCL019-burger-queen">Burger Queen</a></li>
