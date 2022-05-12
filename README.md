@@ -71,10 +71,11 @@ Mi experiencia en el bootcamp de Laboratoria, me ha permitido desarrollar herram
 
 <h2>Datos de GitHub</h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=majesuso&show_icons=true&bg_color=121316&hide_border=true&icon_color=FFD5BC&text_color=EBB6F0&title_color=9C83E9)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=majesuso&theme=midnight-purple&hide_border=true&show_icons=true)
 
-
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=midnight-purple&layout=compact&card_width=500&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
+-->
 <!--
 **majesuso/majesuso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
