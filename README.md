@@ -2,7 +2,7 @@
 
 <div>
  
-<img src="Cueva del autoconocimiento.jpg" width="450px" alt = "Cueva del autoconocimiento, Ilustración hecha por mi" align = "right">
+<img src="Cueva del autoconocimiento.jpg" width="500px" alt = "Cueva del autoconocimiento, Ilustración hecha por mi" align = "right">
 
 <p>
 Soy <strong>Desarrolladora Front End</strong> egresada de <a href = "https://www.laboratoria.la/" target="_blank">Laboratoria</a>, Chile. 
